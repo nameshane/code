@@ -1,0 +1,4 @@
+对于sql字段空的判断有三种
+	esti_bacth_no IS NULL
+	OR esti_bacth_no = 0
+	OR esti_bacth_no = ''
